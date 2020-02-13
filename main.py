@@ -1,9 +1,8 @@
+import pandas as pd
 import requests
 
+games = requests.get('https://api.rawg.io/api/games')
 
-def main():
-    r = requests.get('https://api.rawg.io/api/games')
+game_data = pd.json_normalize(games.json())
 
-
-    if __name__ == "__main__":
-        main()
+print(game_data.columns)
