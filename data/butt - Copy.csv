@@ -1,0 +1,201 @@
+,id,slug,name,released,rating,ratings_count,metacritic,playtime,Racing,Shooter,Adventure,Action,RPG,Fighting,Puzzle,Strategy,Arcade,Simulation,Sports,Card,Family,Board Games,Educational,Casual,Indie,Massively Multiplayer,Platformer
+0,3498,grand-theft-auto-v,Grand Theft Auto V,2013-09-17,4.48,3138,96.0,68,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+1,4200,portal-2,Portal 2,2011-04-19,4.6,2715,95.0,11,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+2,3328,the-witcher-3-wild-hunt,The Witcher 3: Wild Hunt,2015-05-18,4.68,2934,93.0,54,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+3,5679,the-elder-scrolls-v-skyrim,The Elder Scrolls V: Skyrim,2011-11-11,4.41,2298,,42,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+4,12020,left-4-dead-2,Left 4 Dead 2,2009-11-17,4.1,1591,89.0,9,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5,802,borderlands-2,Borderlands 2,2012-09-18,4.07,1707,89.0,9,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+6,13536,portal,Portal,2007-10-09,4.5,2255,90.0,4,False,False,True,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+7,4062,bioshock-infinite,BioShock Infinite,2013-03-26,4.37,2085,94.0,12,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+8,3439,life-is-strange-episode-1-2,Life is Strange,2015-01-29,4.11,1884,83.0,7,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+9,4291,counter-strike-global-offensive,Counter-Strike: Global Offensive,2012-08-21,3.58,1539,83.0,58,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+10,1030,limbo,Limbo,2010-07-21,4.14,1700,88.0,3,False,False,True,True,False,False,True,False,False,False,False,False,False,False,False,False,True,False,True
+11,5286,tomb-raider,Tomb Raider (2013),2013-03-05,4.07,1852,86.0,11,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+12,13537,half-life-2,Half-Life 2,2004-11-16,4.48,1847,96.0,7,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+13,4286,bioshock,BioShock,2007-08-21,4.39,1769,96.0,3,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+14,11859,team-fortress-2,Team Fortress 2,2007-10-10,3.67,1491,92.0,9,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+15,3939,payday-2,PAYDAY 2,2013-08-13,3.49,1043,79.0,8,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+16,3070,fallout-4,Fallout 4,2015-11-09,3.72,1672,84.0,47,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+17,10213,dota-2,Dota 2,2013-07-09,3.09,1328,90.0,14,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+18,4459,grand-theft-auto-iv,Grand Theft Auto IV,2008-04-29,4.23,1354,90.0,9,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+19,2454,doom,DOOM (2016),2016-05-13,4.39,1809,85.0,11,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+20,3498,grand-theft-auto-v,Grand Theft Auto V,2013-09-17,4.48,3138,96.0,68,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+21,4200,portal-2,Portal 2,2011-04-19,4.6,2715,95.0,11,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+22,3328,the-witcher-3-wild-hunt,The Witcher 3: Wild Hunt,2015-05-18,4.68,2934,93.0,54,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+23,5679,the-elder-scrolls-v-skyrim,The Elder Scrolls V: Skyrim,2011-11-11,4.41,2298,,42,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+24,12020,left-4-dead-2,Left 4 Dead 2,2009-11-17,4.1,1591,89.0,9,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+25,802,borderlands-2,Borderlands 2,2012-09-18,4.07,1707,89.0,9,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+26,13536,portal,Portal,2007-10-09,4.5,2255,90.0,4,False,False,True,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+27,4062,bioshock-infinite,BioShock Infinite,2013-03-26,4.37,2085,94.0,12,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+28,3439,life-is-strange-episode-1-2,Life is Strange,2015-01-29,4.11,1884,83.0,7,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+29,4291,counter-strike-global-offensive,Counter-Strike: Global Offensive,2012-08-21,3.58,1539,83.0,58,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+30,1030,limbo,Limbo,2010-07-21,4.14,1700,88.0,3,False,False,True,True,False,False,True,False,False,False,False,False,False,False,False,False,True,False,True
+31,5286,tomb-raider,Tomb Raider (2013),2013-03-05,4.07,1852,86.0,11,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+32,13537,half-life-2,Half-Life 2,2004-11-16,4.48,1847,96.0,7,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+33,4286,bioshock,BioShock,2007-08-21,4.39,1769,96.0,3,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+34,11859,team-fortress-2,Team Fortress 2,2007-10-10,3.67,1491,92.0,9,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+35,3939,payday-2,PAYDAY 2,2013-08-13,3.49,1043,79.0,8,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+36,3070,fallout-4,Fallout 4,2015-11-09,3.72,1672,84.0,47,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+37,10213,dota-2,Dota 2,2013-07-09,3.09,1328,90.0,14,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+38,4459,grand-theft-auto-iv,Grand Theft Auto IV,2008-04-29,4.23,1354,90.0,9,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+39,2454,doom,DOOM (2016),2016-05-13,4.39,1809,85.0,11,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+40,28,red-dead-redemption-2,Red Dead Redemption 2,2018-10-26,4.54,2065,,23,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+41,23027,the-walking-dead,The Walking Dead: Season 1,2012-04-23,4.26,1148,,8,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+42,3272,rocket-league,Rocket League,2015-07-07,4.04,1388,86.0,17,True,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False
+43,19103,half-life-2-lost-coast,Half-Life 2: Lost Coast,2005-10-27,3.45,616,,1,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+44,58175,god-of-war-2,God of War,2018-04-20,4.59,2163,,20,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+45,766,warframe,Warframe,2013-03-25,3.47,1035,,7,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+46,29028,metro-2033,Metro 2033,2010-03-16,3.9,1050,,3,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+47,3192,metal-gear-solid-v-the-phantom-pain,METAL GEAR SOLID V: THE PHANTOM PAIN,2015-09-01,4.17,1413,91.0,31,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+48,32,destiny-2,Destiny 2,2017-09-06,3.68,1235,82.0,3,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+49,16944,the-witcher-2-assassins-of-kings-enhanced-edition,The Witcher 2: Assassins of Kings Enhanced Edition,2012-04-16,4.23,1081,88.0,7,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+50,278,horizon-zero-dawn,Horizon Zero Dawn,2017-02-28,4.34,1872,,0,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+51,11973,shadow-of-mordor,Middle-earth: Shadow of Mordor,2014-09-30,3.9,1320,85.0,13,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+52,4332,spec-ops-the-line,Spec Ops: The Line,2012-06-26,4.06,1002,76.0,5,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+53,19710,half-life-2-episode-one,Half-Life 2: Episode One,2006-06-01,4.38,963,87.0,4,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+54,19709,half-life-2-episode-two,Half-Life 2: Episode Two,2007-10-09,4.42,966,90.0,5,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+55,422,terraria,Terraria,2011-05-15,3.97,993,83.0,12,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True
+56,13668,amnesia-the-dark-descent,Amnesia: The Dark Descent,2010-09-07,3.61,604,85.0,1,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
+57,11936,half-life-2-deathmatch,Half-Life 2: Deathmatch,2004-11-01,3.35,501,,1,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+58,10035,hitman,HITMAN,2017-11-16,3.92,1015,83.0,7,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+59,7689,rise-of-the-tomb-raider,Rise of the Tomb Raider,2015-11-10,4.02,1297,86.0,15,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+60,3612,hotline-miami,Hotline Miami,2012-10-22,4.31,1320,85.0,5,False,True,False,True,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False
+61,3144,super-meat-boy,Super Meat Boy,2010-10-20,3.96,996,87.0,3,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True
+62,4427,bioshock-2,BioShock 2,2010-02-09,4.05,964,88.0,3,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+63,13633,civilization-v,Sid Meier's Civilization V,2010-09-21,4.3,1104,90.0,25,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+64,4252,mirrors-edge,Mirror's Edge,2008-11-11,4.08,1121,81.0,3,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+65,3287,batman-arkham-knight,Batman: Arkham Knight,2015-06-23,4.21,1250,,20,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+66,3790,outlast,Outlast,2013-09-03,3.61,809,80.0,3,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
+67,4386,saints-row-the-third,Saints Row: The Third,2011-11-14,3.91,1010,84.0,14,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+68,4828,borderlands,Borderlands,2009-10-20,3.87,1064,81.0,11,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+69,2462,uncharted-4-a-thiefs-end,Uncharted 4: A Thief’s End,2016-05-10,4.52,1918,,0,False,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+70,17822,the-witcher-enhanced-edition-directors-cut,The Witcher: Enhanced Edition Director's Cut,2008-09-16,4.1,948,86.0,5,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+71,19487,alan-wake,Alan Wake,2010-05-14,4.15,1082,83.0,5,False,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+72,1447,deus-ex-mankind-divided,Deus Ex: Mankind Divided,2016-08-23,3.95,1111,83.0,10,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+73,4514,la-noire,L.A. Noire,2011-05-17,4.15,1085,83.0,8,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+74,3696,wolfenstein-the-new-order,Wolfenstein: The New Order,2014-05-19,4.22,1320,81.0,13,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+75,416,grand-theft-auto-san-andreas,Grand Theft Auto: San Andreas,2004-10-26,4.44,1513,93.0,2,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+76,11935,half-life-deathmatch-source,Half-Life Deathmatch: Source,2006-05-01,3.27,399,,1,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+77,4806,mass-effect-2,Mass Effect 2,2010-01-26,4.48,1566,94.0,22,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+78,613,bastion,Bastion,2011-07-20,4.23,961,86.0,4,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False
+79,3636,the-last-of-us-remastered,The Last Of Us Remastered,2014-07-29,4.69,1593,95.0,16,False,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+80,13910,xcom-enemy-unknown,XCOM: Enemy Unknown,2012-10-09,4.2,957,89.0,15,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+81,4570,dead-space,Dead Space,2008-10-13,4.36,1097,86.0,2,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+82,18080,half-life,Half-Life,1998-11-10,4.35,1047,96.0,2,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+83,4161,far-cry-3,Far Cry 3,2012-11-28,4.22,1231,88.0,17,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+84,5525,brutal-legend,Brutal Legend,2009-10-12,3.69,643,80.0,5,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+85,2551,dark-souls-iii,Dark Souls III,2016-04-11,4.39,1226,89.0,31,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+86,362,for-honor,For Honor,2017-02-13,3.33,905,76.0,7,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+87,58134,marvels-spider-man,Marvel's Spider-Man,2018-09-07,4.43,1659,,6,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+88,5583,hitman-absolution,Hitman: Absolution,2012-11-19,3.69,788,79.0,7,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+89,3387,bloodborne,Bloodborne,2015-03-24,4.37,1370,,12,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+90,9721,garrys-mod,Garry's Mod,2004-12-24,3.72,691,,11,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
+91,10533,path-of-exile,Path of Exile,2013-10-23,3.66,758,86.0,5,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,True,True,False
+92,3747,metal-gear-solid-v-ground-zeroes,METAL GEAR SOLID V: GROUND ZEROES,2014-03-18,3.91,994,80.0,4,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+93,4166,mass-effect,Mass Effect,2007-11-16,4.37,1352,89.0,8,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+94,11934,counter-strike-source,Counter-Strike: Source,2004-11-01,3.68,685,88.0,7,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+95,4223,the-darkness-ii,The Darkness II,2012-02-07,3.69,570,77.0,4,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+96,10243,company-of-heroes-2,Company of Heroes 2,2013-06-25,3.15,452,80.0,4,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False
+97,3543,borderlands-the-pre-sequel,Borderlands: The Pre-Sequel,2014-10-13,3.59,709,75.0,7,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+98,3191,mad-max,Mad Max,2015-09-01,3.71,942,73.0,11,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+99,39,prey,Prey (2017),2017-05-05,4.29,1064,80.0,11,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+100,3841,assassins-creed-iv-black-flag,Assassin’s Creed IV: Black Flag,2013-10-29,4.05,1081,,27,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+101,1010,transistor,Transistor,2014-05-20,4.17,906,83.0,4,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False
+102,18240,brothers-a-tale-of-two-sons-2,Brothers - A Tale of Two Sons,2013-08-07,4.16,896,90.0,3,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False
+103,4513,just-cause-2,Just Cause 2,2010-03-23,3.59,674,84.0,3,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+104,4502,darksiders,Darksiders,2010-01-27,3.74,658,83.0,3,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+105,430,grand-theft-auto-vice-city,Grand Theft Auto: Vice City,2002-10-27,4.41,1324,94.0,2,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+106,3017,just-cause-3,Just Cause 3,2015-11-30,3.28,807,74.0,7,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+107,9882,dont-starve-together,Don't Starve Together,2016-04-21,3.81,609,83.0,6,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False
+108,4248,dishonored,Dishonored,2012-09-25,4.34,1172,91.0,10,False,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+109,4003,grid-2,GRID 2,2013-05-27,3.3,444,80.0,4,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+110,108,mortal-kombat-x,MORTAL KOMBAT X,2015-04-07,3.87,1075,76.0,7,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+111,4280,max-payne-3,Max Payne 3,2012-05-15,4.22,947,87.0,11,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+112,5563,fallout-new-vegas,Fallout: New Vegas,2010-10-19,4.36,1144,84.0,11,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+113,3853,trine-2-complete-story,Trine 2: Complete Story,2013-06-05,3.73,552,84.0,4,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,True,False,True
+114,19301,counter-strike,Counter-Strike,2000-11-01,4.05,659,88.0,3,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+115,10754,bioshock-remastered,BioShock Remastered,2016-09-15,4.27,616,,3,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+116,2361,psychonauts,Psychonauts,2005-04-01,3.98,455,87.0,4,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+117,13554,fallout-a-post-nuclear-role-playing-game,Fallout: A Post Nuclear Role Playing Game,1997-09-30,4.26,614,89.0,1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+118,2792,layers-of-fear,Layers of Fear,2016-02-15,3.5,559,72.0,3,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False
+119,3740,fez,FEZ,2012-04-13,4.01,733,91.0,2,False,False,True,True,False,False,True,False,False,False,False,False,False,False,False,False,True,False,True
+120,13535,left-4-dead,Left 4 Dead,2008-11-17,4.11,780,89.0,6,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+121,17576,batman-arkham-city-goty,Batman: Arkham City - Game of the Year Edition,2012-09-07,4.39,764,91.0,9,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+122,11435,viscera-cleanup-detail-shadow-warrior,Viscera Cleanup Detail: Shadow Warrior,2013-09-26,2.58,348,,2,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False
+123,1416,mafia-ii,Mafia II,2010-08-24,4.09,972,77.0,13,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+124,17572,batman-aa-goty,Batman: Arkham Asylum Game of the Year Edition,2010-03-26,4.37,906,91.0,7,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+125,12024,insurgency,Insurgency,2014-01-22,3.46,551,74.0,4,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
+126,12447,the-elder-scrolls-v-skyrim-special-edition,The Elder Scrolls V: Skyrim Special Edition,2016-10-27,4.41,940,74.0,5,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+127,4544,red-dead-redemption,Red Dead Redemption,2010-05-18,4.39,1191,,7,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+128,3932,the-bureau-xcom-declassified,The Bureau: XCOM Declassified,2013-08-20,3.03,402,66.0,3,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+129,3931,saints-row-iv,Saints Row IV,2013-08-20,3.83,781,86.0,13,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+130,4599,saints-row-2,Saints Row 2,2008-10-14,3.49,456,,2,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+131,2743,heavy-rain,Heavy Rain,2010-02-23,4.05,1190,,12,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+132,5703,uncharted-3-drakes-deception,Uncharted 3: Drake's Deception,2011-11-01,4.35,989,92.0,12,False,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+133,10142,playerunknowns-battlegrounds,PlayerUnknown’s Battlegrounds,2017-12-20,3.41,891,,52,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+134,29177,detroit-become-human,Detroit: Become Human,2018-05-25,4.24,1243,,0,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+135,12536,hellblade-senuas-sacrifice,Hellblade: Senua's Sacrifice,2017-08-07,4.3,984,83.0,7,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
+136,3687,watch-dogs,Watch Dogs,2014-05-27,3.48,986,77.0,19,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+137,10340,crusader-kings-ii,Crusader Kings II,2012-02-14,3.58,383,82.0,3,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False
+138,1682,the-wolf-among-us,The Wolf Among Us,2013-10-10,4.3,1070,85.0,9,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+139,654,stardew-valley,Stardew Valley,2016-02-25,4.37,975,89.0,9,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,True,False,False
+140,2819,firewatch,Firewatch,2016-02-08,4.3,1266,81.0,5,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False
+141,15002,the-stanley-parable,The Stanley Parable,2013-10-17,4.37,1036,88.0,3,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
+142,9767,hollow-knight,Hollow Knight,2017-02-23,4.39,1030,,6,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True
+143,17352,killing-floor,Killing Floor,2009-05-14,3.38,459,72.0,5,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+144,28492,dead-island,Dead Island,2011-09-06,3.42,707,,7,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+145,2235,batman-arkham-origins,Batman: Arkham Origins,2013-10-16,3.88,761,74.0,12,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+146,864,dishonored-2,Dishonored 2,2016-11-10,4.26,906,86.0,13,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+147,18272,magicka,Magicka,2011-01-25,3.84,633,74.0,5,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+148,3254,journey,Journey,2012-03-13,4.33,1247,92.0,2,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+149,28568,assassins-creed-ii,Assassin's Creed II,2009-11-17,4.33,1254,,14,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+150,952,shadowrun-returns,Shadowrun Returns,2013-07-24,3.59,422,76.0,4,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,True,False,False
+151,3603,metro-2033-redux,Metro 2033 Redux,2014-08-25,4.07,742,,5,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+152,10989,paladins,Paladins,2016-09-15,3.08,679,,5,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+153,3015,chivalry-medieval-warfare,Chivalry: Medieval Warfare,2012-10-16,3.38,470,79.0,4,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
+154,13268,amnesia-a-machine-for-pigs,Amnesia: A Machine for Pigs,2013-09-09,3.18,341,72.0,2,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
+155,10548,darksiders-warmastered-edition,Darksiders Warmastered Edition,2016-11-29,3.66,499,,5,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+156,28179,sega-mega-drive-and-genesis-classics,SEGA Mega Drive and Genesis Classics,2010-06-01,3.11,294,,3,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+157,1450,inside,INSIDE,2016-06-28,4.38,1197,87.0,4,False,False,True,True,True,False,True,False,False,False,False,False,False,False,False,False,True,False,True
+158,11142,bioshock-2-remastered,BioShock 2 Remastered,2016-09-15,4.03,438,,3,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+159,13305,assassins-creed-iii-2,Assassin’s Creed III,2012-10-30,3.67,973,80.0,23,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+160,4527,modern-warfare-2,Call of Duty: Modern Warfare 2,2009-11-10,4.25,945,86.0,28,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+161,3876,deus-ex-human-revolution-directors-cut,Deus Ex: Human Revolution - Director's Cut,2013-10-22,4.29,753,91.0,6,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+162,13461,resident-evil-5-biohazard-5,Resident Evil 5,2009-03-03,3.84,803,86.0,11,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+163,19365,homefront,Homefront,2011-03-14,2.9,411,70.0,2,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+164,18613,counter-strike-condition-zero,Counter-Strike: Condition Zero,2004-03-01,3.11,368,65.0,1,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+165,19384,the-binding-of-isaac,The Binding of Isaac,2011-09-28,3.92,640,84.0,5,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False
+166,3604,metro-last-light-redux,Metro: Last Light Redux,2014-08-25,4.14,646,76.0,6,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+167,4440,deus-ex-human-revolution,Deus Ex: Human Revolution,2011-08-22,4.32,887,,18,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+168,2572,dirt-rally,DiRT Rally,2015-12-07,3.8,338,86.0,4,True,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
+169,4639,dragon-age-origins,Dragon Age: Origins,2009-11-03,4.36,966,91.0,9,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+170,3771,rayman-legends,Rayman Legends,2013-08-29,4.15,872,89.0,5,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+171,17875,guacamelee-super-turbo-championship-edition,Guacamelee! Super Turbo Championship Edition,2014-07-01,3.64,470,80.0,3,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True
+172,906,cod-black-ops-iii,Call of Duty: Black Ops III,2015-11-05,3.21,781,73.0,14,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+173,18241,dmc-devil-may-cry-2,DmC: Devil May Cry,2015-03-10,4.02,784,85.0,6,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+174,9743,unturned,Unturned,2014-07-07,2.65,432,,3,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+175,624,ftl-faster-than-light,FTL: Faster Than Light,2012-09-14,4.28,540,84.0,6,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,True,False,False
+176,10065,cities-skylines,Cities: Skylines,2015-03-10,4.19,703,85.0,8,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False
+177,3892,sniper-elite-v2,Sniper Elite V2,2012-05-01,3.34,448,66.0,4,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+178,46889,monster-hunter-world-2,Monster Hunter: World,2018-01-26,4.15,818,,16,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+179,10141,nierautomata,NieR:Automata,2017-03-17,4.34,987,,16,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+180,3990,the-last-of-us,The Last Of Us,2013-06-14,4.57,1449,,15,False,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+181,432,grand-theft-auto-iii,Grand Theft Auto III,2001-10-22,4.17,708,93.0,1,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+182,17126,torchlight-ii,Torchlight II,2012-09-20,3.91,602,88.0,11,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+183,9475,dont-starve,Don't Starve,2013-04-22,3.92,572,79.0,4,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
+184,1774,grim-fandango-remastered,Grim Fandango Remastered,2015-01-26,3.99,525,84.0,5,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+185,3168,soma,SOMA,2015-09-21,4.12,689,84.0,6,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
+186,865,call-of-duty-black-ops,Call of Duty: Black Ops,2010-11-08,4.0,866,81.0,9,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+187,43877,quake-champions,Quake Champions,2017-08-22,3.27,574,,2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+188,14962,dark-souls-prepare-to-die-edition,Dark Souls: Prepare To Die Edition,2012-08-23,4.32,763,85.0,14,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+189,18336,alan-wakes-american-nightmare,Alan Wake's American Nightmare,2012-02-22,3.43,442,73.0,3,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+190,4573,payday-the-heist,PAYDAY The Heist,2011-10-18,3.29,452,76.0,4,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+191,4954,castle-crashers,Castle Crashers,2008-08-27,3.89,602,,4,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
+192,4550,dead-space-2,Dead Space 2,2011-01-25,4.31,694,87.0,4,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+193,3757,south-park-the-stick-of-truth,South Park: The Stick of Truth,2014-03-04,4.2,788,,12,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+194,3631,infamous-second-son,inFAMOUS Second Son,2014-03-21,3.9,919,,0,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+195,3766,thief,Thief,2014-02-25,3.19,613,70.0,5,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+196,21265,half-life-opposing-force,Half-Life: Opposing Force,1999-11-01,3.82,341,,3,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+197,19542,half-life-blue-shift,Half-Life: Blue Shift,2001-06-01,3.74,342,71.0,2,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+198,18183,company-of-heroes,Company of Heroes,2006-09-11,3.55,311,93.0,7,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+199,13627,undertale,Undertale,2015-09-14,4.31,748,92.0,5,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False
