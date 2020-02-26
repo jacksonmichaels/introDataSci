@@ -3,94 +3,86 @@ import requests
 import json
 from threading import Thread
 
-# URL to retrieve data from
 BASE_URL = 'https://api.rawg.io/api/games'
-GENRE_URL = 'https://api.rawg.io/api/genres'
 
-# Columns we want to get data from
 important_cols = ['id', 'slug', 'name', 'released', 'rating', 'ratings_count', 'metacritic', 'playtime']
-# Initialize genres list
 genres = []
-# Number of pages we want to search through
-num_pages = 1000
-
-# Initialize results list
-thicc_results = [[] for i in range(num_pages)]
+parent_platforms = []
+num_threads = 120
+num_pages_per_thread = 150
 
 
-# Retrieve genres from the API
+thicc_results = [[] for i in range(num_threads * num_pages_per_thread)]
+
 def get_genres():
-    genres = requests.get(GENRE_URL)
+    genres = requests.get('https://api.rawg.io/api/genres')
     data = json.loads(genres.text)['results']
     shorter = [(x['id'], x['name']) for x in data]
-    shorter.sort(key=lambda x: x[0])
+    shorter.sort(key=lambda x:x[0])
     return shorter
 
+def get_parent_consoles():
+    genres = requests.get('https://api.rawg.io/api/platforms/lists/parents')
+    data = json.loads(genres.text)['results']
+    shorter = [(x['id'], x['name']) for x in data]
+    shorter.sort(key=lambda x:x[0])
+    return shorter
 
-# Retrieve all games from the URL
-def get_games(page, arr):
-    if page != 0:
-        games = requests.get(BASE_URL + "?page=" + str(page))
-    else:
-        games = requests.get(BASE_URL)
-    game_data = json.loads(games.text)
-    results = game_data['results']
-    arr[page] = results
-    print(page)
-    return results
+# end code (jackson)
+# start code (connor)
+def getGames(pages, arr):
+    for page in pages:
+        if page != 0:
+            games = requests.get(BASE_URL + "?page=" + str(page))
+        else:
+            games = requests.get(BASE_URL)
+        game_data = json.loads(games.text)
+        results = game_data['results']
+        arr[page] = results
+    print(pages[0], " - ", pages[-1])
+# end code (connor)
+# start code (jackson)
+
+def convertRow(row):
+    newRow = [row[x] for x in important_cols]
+    genreNums = [x['id'] for x in row['genres']]
+    parentNums = [x['platform']['id'] for x in row['parent_platforms']]
+    genreRow = [int(x[0]) in genreNums for x in genres]
+    platformRow = [int(x[0]) in parentNums for x in parent_platforms]
+    newRow += genreRow
+    newRow += platformRow
+    return newRow
 
 
-# Convert rows
-def convert_row(row):
-    new_row = [row[x] for x in important_cols]
-    genre_nums = [x['id'] for x in row['genres']]
-    genre_row = [int(x[0]) in genre_nums for x in genres]
-    new_row += genre_row
-    return new_row
-
-
-# Multi-thread retrieving game data
-def start_game_threads():
-    # Initialize threads with functions
-    threads = [Thread(target=get_games, args=(i, thicc_results)) for i in range(num_pages)]
+def startGameThreads():
+    threads = [Thread(target=getGames, args=([j + i * num_pages_per_thread for j in range(num_pages_per_thread)], thicc_results)) for i in range(num_threads)]
     print("threads made")
-
-    # Spin up threads
     for thread in threads:
         thread.start()
-    print("threads started")
 
-    # Re-join threads (no race conditions here!)
+    print("threads started")
     for thread in threads:
         thread.join()
+
     print("threads done")
 
-    # Output results list
-    print(thicc_results)
-
-    # Flatten list into sub-lists
     flat_list = [item for sublist in thicc_results for item in sublist]
 
-    # Convert rows for easier viewing
-    converted_list = [convert_row(y) for y in flat_list]
 
-    # Get relevant column names
-    col_names = important_cols + [x[1] for x in genres]
+    converted_list = [convertRow(y) for y in flat_list]
 
-    # Create a pandas DataFrame from the organized list
+    col_names = important_cols + [x[1] for x in genres] + [x[1] for x in parent_platforms]
+
     df = pd.DataFrame(converted_list, columns=col_names)
 
-    # Return the DataFrame
     return df
 
+genres = get_genres()
+parent_platforms = get_parent_consoles();
+df = startGameThreads()
 
-# Retrieve genres from API for use
-game_genres = get_genres()
-# Retrieve game data from API
-game_frame = start_game_threads()
+df.to_csv("data/butt.csv")
 
-# Output data to CSV for visualization
-game_frame.to_csv("data/output.csv")
+print(df.head())
 
-# Output program has finished
-print("Data Retrieved")
+print("real done")
