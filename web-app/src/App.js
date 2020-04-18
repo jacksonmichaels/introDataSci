@@ -1,26 +1,31 @@
 import React from 'react';
-import logo from './logo.svg';
+import '@popperjs/core';
+import Dropdown from "react-bootstrap/Dropdown";
 import './App.css';
+import DropdownButton from "react-bootstrap/DropdownButton";
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    return (
+        <div className="App">
+            <header className="Title-bar">
+            </header>
+            <body>
+            <div className="panel">
+                <h1>
+                    Filter by:
+                </h1>
+                <DropdownButton id="dropdown-basic-button" title="Dropdown button">
+                    <Dropdown.Item> Action One</Dropdown.Item>
+                </DropdownButton>
+            </div>
+            <div className="panel">
+                <button>
+
+                </button>
+            </div>
+            </body>
+        </div>
+    );
 }
 
 export default App;
