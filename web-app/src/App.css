@@ -2,25 +2,35 @@
   text-align: center;
 }
 
-.App-header {
+.header {
   background-color: #F1F1F1;
   text-align: center;
   padding: 20px;
 }
 
-.panel {
+.column {
   float: left;
-  width: 50%;
 }
 
-.row:after {
-  content: "";
-  display:table;
-  clear: both;
+/* Left and right column */
+.column.side {
+  width: 33%;
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
 }
 
+/* Middle column */
+.column.middle {
+  width: 67%;
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 600px) {
-  .panel {
+  .column.side, .column.middle {
     width: 100%;
   }
 }
